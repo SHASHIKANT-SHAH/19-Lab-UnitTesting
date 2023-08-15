@@ -1,0 +1,61 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "AppDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": ".\/",
+   "OutputPath": ".\/Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DAL",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AddNewProductDetails]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteProductById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateProductDetails]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_getproduct]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-K1T5VK8\\SQLEXPRESS.webappUnitTestigng",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

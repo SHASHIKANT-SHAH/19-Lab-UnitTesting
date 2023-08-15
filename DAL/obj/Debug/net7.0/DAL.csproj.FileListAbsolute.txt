@@ -1,0 +1,12 @@
+D:\AspNetCoreUnitTesting\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\AspNetCoreUnitTesting\DAL\bin\Debug\net7.0\DAL.dll
+D:\AspNetCoreUnitTesting\DAL\bin\Debug\net7.0\DAL.pdb
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.dll
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\DAL.pdb
+D:\AspNetCoreUnitTesting\DAL\obj\Debug\net7.0\ref\DAL.dll
